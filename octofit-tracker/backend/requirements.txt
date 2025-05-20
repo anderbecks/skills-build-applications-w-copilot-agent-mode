@@ -2,5 +2,5 @@
 # Based on MonaFit Tracker reference
 
 Django==4.1
-djangorestframework==3.16.0
-pymongo==4.13.0
+djangorestframework
+pymongo
